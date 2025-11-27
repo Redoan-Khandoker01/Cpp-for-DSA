@@ -7,8 +7,8 @@ int main()
     cout<<s[2]<<endl;                 // string  একসেস নেয়া যায়. index[0];
     cout<<s.back()<<endl;       // srtring er  লাস্ট এর  idex print korar jonno ;
     cout<<s.front()<<endl;      // string er font index print korar jonno ;
-
-   
-
+cout<<s.front()<<endl; 
+cout<<s.front()<<endl; 
+  
 return 0;
 }
