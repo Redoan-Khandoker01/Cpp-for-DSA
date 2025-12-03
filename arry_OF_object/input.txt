@@ -1,0 +1,4 @@
+3
+sakib 1 90
+rakib 2 80
+rado  3 70 

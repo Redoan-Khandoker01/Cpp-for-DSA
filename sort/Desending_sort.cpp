@@ -10,7 +10,7 @@ int main()
         cin>>a[i];
     }
     
-    sort(a,a+n, greater<int>()); // descending sort 
+   sort(a,a+n,greater<int>()); // descending sort 
     for (int i = 0; i < n; i++)
     {
         cout<<a[i]<<" ";

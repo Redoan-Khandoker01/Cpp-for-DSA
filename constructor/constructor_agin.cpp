@@ -8,9 +8,9 @@ public:
     int clas;
 
     Student(double g, int r, int c)
-    {   gpa = g;
-        rol = r;
-        clas = c;
+    {   this->gpa = g;
+        this->rol = r;  
+        this->clas= c;
         
     }
 };
