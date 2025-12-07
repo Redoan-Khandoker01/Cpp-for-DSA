@@ -43,6 +43,7 @@ int main()
              << arr[i].section << " "
              << arr[i].id << "\n";
               << arr[i].id << "\n";
+              << arr[i].id << "\n";
     }
 
 
