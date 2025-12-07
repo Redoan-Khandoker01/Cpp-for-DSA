@@ -42,7 +42,9 @@ int main()
              << arr[i].cls << " "
              << arr[i].section << " "
              << arr[i].id << "\n";
+              << arr[i].id << "\n";
     }
+
 
     return 0;
 }
