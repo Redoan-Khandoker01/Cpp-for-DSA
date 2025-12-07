@@ -44,6 +44,7 @@ int main()
              << arr[i].id << "\n";
               << arr[i].id << "\n";
               << arr[i].id << "\n";
+               << arr[i].id << "\n";
     }
 
 
